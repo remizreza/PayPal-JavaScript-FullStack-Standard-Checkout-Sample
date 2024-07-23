@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://api-m.paypal.com",
+            "request": "launch",
+            "url": "https://api-m.paypal.com"
+        }
+    ]
+}
